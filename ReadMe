@@ -1,0 +1,12 @@
+This project has been developed using PHP, HTML, CSS, BOOTSTRAP and MySQL. We have used PHP for back end, MySQL as a database, HTML for structure designing, CSS and BOOTSTRAP for web page formatting.
+
+You need to install XAMPP to create a local web server for testing.
+
+Key Features:
+• Usernames and Passwords of the users are maintained in a database
+• Usernames and Passwords are validated properly 
+• Student’s progress is shared only with that student only 
+• Instant result of the test is shown to the test taker 
+• Proper database is maintained depending on each action 
+
+At this moment, the project is working perfectly fine, but there is limited functionality. I am looking forward to extend some additional features to this project. I will be working on a page that allows the administrators to add questions and their answers with ease. I will also be working on adding a timer for the test and also add a page that will show different subject for the tests. In the next update of this project I will try to incorporate all the necessary changes that I will be working on.
